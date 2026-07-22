@@ -1,0 +1,9 @@
+Home -> Cafe
+Home -> Library
+Cafe -> Station
+Library -> Station
+Library -> Park
+Park -> Museum
+Station -> Museum
+Museum -> Goal
+Cafe -> Park
